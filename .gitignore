@@ -1,0 +1,32 @@
+**Paste this entire content:**
+```
+# Backend
+food-delivery-backend/target/
+food-delivery-backend/.mvn/
+food-delivery-backend/mvnw
+food-delivery-backend/mvnw.cmd
+*.class
+*.jar
+*.war
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.settings/
+.project
+.classpath
+
+# Database
+*.sql~
+
+# Environment
+.env
+food-delivery-backend/src/main/resources/application-local.properties
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
