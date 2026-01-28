@@ -1,3 +1,6 @@
+---
+permalink: /index.html
+---
 # 🍕 Food Delivery System
 
 A full-stack online food delivery application built with Java Spring Boot and HTML/CSS/JavaScript.
